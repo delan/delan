@@ -26,23 +26,23 @@
       </samp></h1>
   <tr>
     <td width="50%">
-      <b><a href="https://bitbucket.org/delan/matrix86">matrix86</a></b><br>
-      <sub>cmatrix clone in three eighths of a PC MBR<br>x86 (nasm)</sub>
+      <b><a href="https://bitbucket.org/delan/matrix86">matrix86</a></b> <sub>(nasm x86)</sub><br>
+      <sub>cmatrix clone in three eighths of a PC MBR</sub>
     <td width="50%">
-      <b><a href="https://bitbucket.org/delan/xd">xd</a></b><br>
-      <sub>dumps binary input in a variety of formats<br>Rust</sub>
+      <b><a href="https://bitbucket.org/delan/xd">xd</a></b> <sub>(Rust)</sub><br>
+      <sub>dumps binary input in a variety of formats</sub>
   <tr>
     <td width="50%">
-      <b><a href="https://bitbucket.org/delan/badapple.rs">badapple.rs</a></b><br>
-      <sub>Bad Apple!! for taskmgr<br>Rust</sub>
+      <b><a href="https://bitbucket.org/delan/badapple.rs">badapple.rs</a></b> <sub>(Rust)</sub><br>
+      <sub>Bad Apple!! for taskmgr</sub>
     <td width="50%">
-      <b><a href="https://bitbucket.org/delan/ing2ynab">ing2ynab</a></b><br>
-      <sub>cleans up ing.com.au transactions for YNAB<br>Rust</sub>
+      <b><a href="https://bitbucket.org/delan/ing2ynab">ing2ynab</a></b> <sub>(Rust)</sub><br>
+      <sub>cleans up ing.com.au transactions for YNAB</sub>
   <tr>
     <td width="50%">
-      <b><a href="https://bitbucket.org/delan/nonymous">nonymous</a></b><br>
-      <sub>DNS library (no-{std,alloc}-friendly) and tools<br>Rust</sub>
+      <b><a href="https://bitbucket.org/delan/nonymous">nonymous</a></b> <sub>(Rust)</sub><br>
+      <sub>DNS library (no-{std,alloc}-friendly) and tools</sub>
     <td width="50%">
-      <b><a href="https://codeberg.org/shuppy/fallen-sky">fallen-sky</a></b><br>
-      <sub>tools for <a href="https://github.com/falling-sky">falling-sky</a>, the IPv6 diagnostic service that powers <a href="https://test-ipv6.com">test-ipv6.com</a> and <a href="https://sixte.st">sixte.st</a>.<br>Rust</sub>
+      <b><a href="https://codeberg.org/shuppy/fallen-sky">fallen-sky</a></b> <sub>(Rust)</sub><br>
+      <sub>tools for <a href="https://github.com/falling-sky">falling-sky</a>, the IPv6 diagnostic service that powers <a href="https://test-ipv6.com">test-ipv6.com</a> and <a href="https://sixte.st">sixte.st</a>.</sub>
 </table>
