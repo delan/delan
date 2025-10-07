@@ -18,11 +18,11 @@
     -->
     <td bgcolor="blue" colspan="2" width="9999999" align="center">
       <h1><samp>
-        <a href="https://www.azabani.com/">~</a>
-        : <a href="https://www.azabani.com/about/">~/about/</a>
+        <a href="https://shuppy.org">~</a>
+        : <a href="https://www.azabani.com/about/">~/work/</a>
         : <a href="https://www.azabani.com/labs/">~/labs/</a>
         : <a href="https://bitbucket.org/delan">bitbucket</a>
-        : <a href="https://twitter.com/dazabani">@dazabani</a>
+        : <a href="https://codeberg.org/shuppy">codeberg</a>
       </samp></h1>
   <tr>
     <td width="50%">
@@ -43,6 +43,6 @@
       <b><a href="https://bitbucket.org/delan/nonymous">nonymous</a></b><br>
       <sub>DNS library (no-{std,alloc}-friendly) and tools<br>Rust</sub>
     <td width="50%">
-      <b><a href="https://bitbucket.org/delan/daria.daz.cat">daria.daz.cat</a></b><br>
-      <sub>root overlay for my home router<br>POSIX sh</sub>
+      <b><a href="https://codeberg.org/shuppy/fallen-sky">fallen-sky</a></b><br>
+      <sub>tools for <a href="https://github.com/falling-sky">falling-sky</a>, the IPv6 diagnostic service that powers <a href="https://test-ipv6.com">test-ipv6.com</a> and <a href="https://sixte.st">sixte.st</a>.<br>Rust</sub>
 </table>
